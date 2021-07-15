@@ -1,5 +1,5 @@
 framework module MyFramework {
-  umbrella header "MyFramework-umbrella.h"
+  umbrella header "MyFramework.h"
 
   export *
   module * { export * }

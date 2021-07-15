@@ -6,47 +6,51 @@
 	<dict>
 		<key>Headers/MyFramework-Swift.h</key>
 		<data>
-		7AyMuKX0zx4+PKDvnwMlKCMMrgc=
+		h0ko+HL1rKSaOVjUeH11ifd797M=
 		</data>
-		<key>Headers/MyFramework-umbrella.h</key>
+		<key>Headers/MyFramework.h</key>
 		<data>
-		/paH6H9kUuxFJ/URDb6AqEz8Mm0=
+		xpyBQpG+AEDuivOUmqmGTPxLwUg=
+		</data>
+		<key>Headers/MyProcessor.h</key>
+		<data>
+		9/0csfBCHgPaKnIT7D6D67oPqn0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VvB4GKT1RaUXI0tcwTGU2e2Z4/o=
+		FehpZ8SWwPvPAnfXRUL1oQ+f6tc=
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		c94LUBE/ZweEXSQKeyLddAl/qFw=
+		hRN03eb1Ws6Ua7hlvejPGNcAuBo=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		O74Gv4gk2Jn4skOzt+7ahl2AKoY=
+		OuSUPllraVagjo06FsFhOQ1g+Zw=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		O74Gv4gk2Jn4skOzt+7ahl2AKoY=
+		OuSUPllraVagjo06FsFhOQ1g+Zw=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xAiFMKrlXCL+HV13/ugTL7xBSLU=
+		pVBQjQ6X2Y+3zecGIl6v3G27pwU=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ix9ZGt6QEXfM9eTeR3+LzonyegY=
+		5u+TgG14Wokpju6KXBSnWZ64+hg=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		xAiFMKrlXCL+HV13/ugTL7xBSLU=
+		pVBQjQ6X2Y+3zecGIl6v3G27pwU=
 		</data>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Ix9ZGt6QEXfM9eTeR3+LzonyegY=
+		5u+TgG14Wokpju6KXBSnWZ64+hg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		z30HLCplT5Gd+sjW6stjGuY2r4w=
+		0fILlZozCT+8BLyR5KmZpQcD5mE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,70 +59,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pTVU/Tusq8qhcbbcklJ+KJHR1B1zdYw2bg4oBLYvUX8=
+			QqcBAB5B1RiQOLTx9hUclJtoFkbFpIaTR6cwgPj1Dzw=
 			</data>
 		</dict>
-		<key>Headers/MyFramework-umbrella.h</key>
+		<key>Headers/MyFramework.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xRg2d584eAsZly4//Oxhpt+Aw2De9eBVZOsdqztUvdY=
+			dUlNFM/ejmjWbl6hvoo170rGnCHB6aVX4t03Cz6upY4=
+			</data>
+		</dict>
+		<key>Headers/MyProcessor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IJZ1ZLj2vBX+rh3DCKsInlhFlyFIcCt+GlKCOK50yII=
 			</data>
 		</dict>
 		<key>LoginViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0+ugmH2/ZmSwL7OPKjMEPvRmxPCRqaVdO6K6qim+qWU=
+			ikDBcr/BapaEDyNcxnM8J/LJLQdCoIlKBYsNhUHvU4o=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6RaBCwMd2rxOgyGo3gyswidkezFTI/PMANtih/5nl3Y=
+			UTH5N8eBK/uFYVXAcMCVVe59HOFaFGerp/+/yzP3QTE=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6RaBCwMd2rxOgyGo3gyswidkezFTI/PMANtih/5nl3Y=
+			UTH5N8eBK/uFYVXAcMCVVe59HOFaFGerp/+/yzP3QTE=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbabs4YaOK6UC9WJ8rRf79HOKt1xrv4lOHG8qAwxWdU=
+			f+hSQ6E++AcM+EUXIGao7rfU8gGAH77l4LdQ/c77XAY=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5peqlt4Gf7H/7CRKy+Cv5WuxGlA8kPsIw+5/GgTC20=
+			aATOPhHyUX+qurPswsgeittaJ3BoYq/r+JZbttN0Puc=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbabs4YaOK6UC9WJ8rRf79HOKt1xrv4lOHG8qAwxWdU=
+			f+hSQ6E++AcM+EUXIGao7rfU8gGAH77l4LdQ/c77XAY=
 			</data>
 		</dict>
 		<key>Modules/MyFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5peqlt4Gf7H/7CRKy+Cv5WuxGlA8kPsIw+5/GgTC20=
+			aATOPhHyUX+qurPswsgeittaJ3BoYq/r+JZbttN0Puc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HkQw4+gKmOVN+fJJZm6jHYq2+VpuLDDp+IJ2DH6+nfk=
+			CNtnazArMyfNUniZn2W0MnRGyo478PVzAhB0SEhatPw=
 			</data>
 		</dict>
 	</dict>
